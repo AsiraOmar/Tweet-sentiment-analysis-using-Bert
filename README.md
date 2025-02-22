@@ -38,11 +38,7 @@ The process includes:
 
 1. **Clone the Repository**
 
-   Clone this repository to your local machine:
-
-   ```
-   git clone <repository_url>
-   ```
+   Clone this repository to your local machine
 
 2. **Prepare the Dataset**
 
@@ -54,11 +50,7 @@ The process includes:
 
 4. **Train the Model**
 
-   Run the following script to start training the model on the tweet dataset:
-
-   ```
-   python train.py
-   ```
+   Run the notebook to start training the model on the tweet dataset
 
    This will fine-tune the BERT model on the training data. The model will be trained for a specified number of epochs, and the training process will be displayed on the console.
 
